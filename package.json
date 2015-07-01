@@ -1,0 +1,27 @@
+{
+  "name": "@anaibi/howtonode",
+  "version": "1.0.0",
+  "description": "exercise 3 of how-to-node, start a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaibi/how-to-node.git"
+  },
+  "keywords": [
+    "['node'",
+    "'tuts'",
+    "'how-to-node']"
+  ],
+  "author": "\"tatiana <holatatiana@gmail.com> (https://github.com/Anaibi/how-to-npm)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaibi/how-to-node/issues"
+  },
+  "homepage": "https://github.com/anaibi/how-to-node#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
