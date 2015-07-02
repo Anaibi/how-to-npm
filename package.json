@@ -4,7 +4,7 @@
   "description": "exercise 3 of how-to-node, start a project",
   "main": "index.js",
   "scripts": {
-    "test": "node test.jsad"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
